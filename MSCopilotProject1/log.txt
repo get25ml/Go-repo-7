@@ -1,3 +1,0 @@
-2024/02/22 11:24:38 Starting server on port 8080
-2024/02/22 11:28:06 Starting server on port 8080
-2024/02/22 11:33:23 Starting server on port 8080
